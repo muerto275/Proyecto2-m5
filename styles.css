@@ -2,12 +2,12 @@ body{
     background-color: #8BDDF0 !important;
 
 }
-.container-fluid {
-
-}
 
 .container-1 {
     background-color:#F7BE81;
     height: 95%;
-    width: 95%;
 }
+#cuentas {
+    display: none; /*para que no muestre de inicio la segunda pantalla*/
+}
+
